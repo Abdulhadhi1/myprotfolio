@@ -931,7 +931,7 @@ h1{
 
   white-space: nowrap;
   letter-spacing: 2px;
-  animation: typing 2s steps(500, end) infinite, blink 0.75s step-end infinite;
+  animation: typing 3s steps(500, end) infinite, blink 0.75s step-end infinite;
 }
 
 @keyframes typing {
@@ -940,7 +940,7 @@ h1{
   }
 
   to {
-      width: 80%;
+      width: 110%;
   }
 }
 
